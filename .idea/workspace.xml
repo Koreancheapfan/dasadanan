@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ca92977-ac2d-4371-9990-cf32b7ad6c26" name="Changes" comment="hello5">
+    <list default="true" id="4ca92977-ac2d-4371-9990-cf32b7ad6c26" name="Changes" comment="as">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666675256349</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="as">
+      <created>1666675663230</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666675663230</updated>
+    </task>
+    <task id="LOCAL-00011" summary="as">
+      <created>1666675762605</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666675762605</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +141,7 @@
     <MESSAGE value="hello3" />
     <MESSAGE value="hello4" />
     <MESSAGE value="hello5" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello5" />
+    <MESSAGE value="as" />
+    <option name="LAST_COMMIT_MESSAGE" value="as" />
   </component>
 </project>
